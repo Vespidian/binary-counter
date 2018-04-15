@@ -19,7 +19,23 @@ body{
 	border-width: 0;
 }
 
-/*
-green: 42a327;
-red: b52b2b;
-*/
+#bitSwitches{
+	border: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin: 10px;
+}
+
+#cheatSheet{
+	border: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin: 10px;
+}
+
+#results{
+	border: solid;
+	border-width: 1px;
+	border-color: #000000;
+	margin: 10px;
+}
